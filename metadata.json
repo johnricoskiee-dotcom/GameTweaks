@@ -1,0 +1,6 @@
+{
+  "name": "GameTweaks",
+  "description": "Real-time Android gaming performance & thermal optimizer by Blaze00 (TG @Blaze00) featuring 60/90/120Hz display switching, per-app FPS lock, floating FPS overlay, GPU/ANGLE tuning, and direct on-device Shizuku & Root execution across Android 11-16.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
